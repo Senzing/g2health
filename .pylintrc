@@ -1,16 +1,11 @@
 [pylint]
 disable=
-	import-error,
-	invalid-name,
-	missing-class-docstring,
-	missing-module-docstring,
-	no-self-use,
-	too-few-public-methods,
-    broad-except,
-    consider-using-f-string,
-    line-too-long,
-    too-many-branches,
-    too-many-locals,
+    import-error,
+    invalid-name,
+    missing-class-docstring,
+    missing-module-docstring,
+    no-self-use,
+    too-few-public-methods,
 good-names=
     template-python
 ignore=
